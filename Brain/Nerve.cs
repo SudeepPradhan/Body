@@ -2,7 +2,7 @@
 
 namespace Brain
 {
-    public class Class1
+    public class Nerve
     {
     }
 }
